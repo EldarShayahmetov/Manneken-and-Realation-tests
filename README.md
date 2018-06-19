@@ -4,7 +4,7 @@
 
 # Info
 
-For more information see github.com/EldarShayahmetov/Psychological-tests
+For more information see https://github.com/EldarShayahmetov/Psychological-tests
 
 # Authors
 
